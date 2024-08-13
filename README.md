@@ -6,9 +6,9 @@
 
 Originally developed by urgesoftware.com, the original project is not maintained anymore. So we decided to reanimate it.
 
-This project mainly consists of source from [Unoffical_Wineskin](https://github.com/vitor251093/wineskin/commits/Unoffical_Wineskin/), [The-Wineskin-Project](https://github.com/The-Wineskin-Project/wineskin-source/) and [Gcenx/WineskinServer](https://github.com/Gcenx/WineskinServer/).
+This project mainly consists of source from [Unoffical_Wineskin](https://github.com/vitor251093/wineskin/commits/Unoffical_Wineskin/), [The-Wineskin-Project](https://github.com/The-Wineskin-Project/wineskin-source/) and [Gcenx/WineskinServer](https://github.com/Gcenx/WineskinServer/) and myself.
 
-**You are welcome to contribute, making Wineskin a better solution! ;)**
+You are welcome to contribute, making **Wineskin Modernized** a better solution! ;)
 
 
 ## How Does It Work?
@@ -31,8 +31,8 @@ Wineskin relies on [WINE](http://www.winehq.org/) ("WINE Is Not an Emulator") un
 Clone the repository and build the dependencies:
 
 ```bash
-$ https://github.com/DirkMausF/wineskin-new/
-$ cd wineskin_new/
+$ git clone https://github.com/DirkMausF/Wineskin-Modernized/
+$ cd Wineskin-Modernized/
 $ carthage update
 ```
 
