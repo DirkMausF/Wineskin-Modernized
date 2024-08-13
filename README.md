@@ -1,8 +1,8 @@
+<a href="https://github.com/DirkMausF/Wineskin-Modernized/"><img src="https://github.com/DirkMausF/Wineskin-Modernized/blob/master/wineskin.png" height="250" width="250" ></a>
 
-<a href="https://github.com/DirkMausF/wineskin-new/"><img src="https://github.com/DirkMausF/Wineskin-Modernized/blob/master/wineskin.png" height="250" width="250" ></a>
-          
 # Wineskin Modernized
-is a refubished version of a user-friendly tool used to make ports of Microsoft Windows software to Apple's macOS.
+
+**Wineskin Modernized** is a refubished version of a user-friendly tool used to make ports of Microsoft Windows software to Apple's macOS.
 
 Originally developed by urgesoftware.com, the original project is not maintained anymore. So we decided to reanimate it.
 
