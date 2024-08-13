@@ -1,4 +1,4 @@
-<a href="https://github.com/DirkMausF/Wineskin-Modernized/"><img src="https://github.com/DirkMausF/Wineskin-Modernized/blob/master/wineskin.png" height="250" width="250" ></a>
+<a href="https://github.com/DirkMausF/Wineskin-Modernized/"><img src="./wineskin.png" height="250" width="250" ></a>
 
 # Wineskin Modernized
 
